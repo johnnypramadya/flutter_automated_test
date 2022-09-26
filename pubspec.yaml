@@ -37,6 +37,8 @@ dependencies:
 
 dev_dependencies:
   test: ^1.20.0
+  integration_test:
+    sdk: flutter
   flutter_test:
     sdk: flutter
 
